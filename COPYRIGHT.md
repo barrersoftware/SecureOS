@@ -7,7 +7,7 @@ SecureOS is Copyright © 2025 Barrer Software. All rights reserved.
 ## License
 
 SecureOS infrastructure code, scripts, and configuration files are released
-under the MIT License. See LICENSE file for full text.
+under the Barrer Open Source License (BOSL) v1.1. See LICENSE file for full text.
 
 ## Trademarks
 

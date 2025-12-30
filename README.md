@@ -429,7 +429,7 @@ For issues, questions, or contributions:
 
 **Copyright © 2025 Barrer Software. All rights reserved.**
 
-SecureOS is free and open source software, licensed under the MIT License.
+SecureOS is free and open source software, licensed under the Barrer Open Source License (BOSL) v1.1.
 
 - 📄 See [LICENSE](LICENSE) for full license text
 - 📋 See [COPYRIGHT.md](COPYRIGHT.md) for detailed attribution and third-party licenses

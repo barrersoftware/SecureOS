@@ -105,7 +105,7 @@ SecureOS/
 ├── .gitignore                     ✅ Git ignore rules
 ├── CONTRIBUTING.md                ✅ Contribution guide
 ├── README.md                      ✅ Project README
-├── LICENSE                        ✅ MIT License
+├── LICENSE                        ✅ BOSL v1.1
 ├── COPYRIGHT.md                   ✅ Copyright info
 ├── requirements.txt               ✅ Python deps
 └── PROJECT_STATUS.md              ✅ This file

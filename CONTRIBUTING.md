@@ -422,7 +422,7 @@ Contributors will be recognized in:
 
 ## License
 
-By contributing to SecureOS, you agree that your contributions will be licensed under the MIT License.
+By contributing to SecureOS, you agree that your contributions will be licensed under the Barrer Open Source License (BOSL) v1.1.
 
 ---
 
